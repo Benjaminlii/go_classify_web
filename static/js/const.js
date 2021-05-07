@@ -1,1 +1,1 @@
-const url_pre = "http://localhost:8686"
+const url_pre = "http://benjaminlee.cn:8686"
